@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: oway-shipment
+
+  # JDBC Session Storage
+  #session:
+  #  store-type: jdbc
+  #  jdbc:
+  #    initialize-schema: always  # Creates tables automatically
+  #    table-name: SPRING_SESSION
+  #  timeout: 30m  # Session timeout
+
+gg:
+  jte:
+    developmentMode: true
